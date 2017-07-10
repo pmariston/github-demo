@@ -1,3 +1,9 @@
 Test Git Quick Start demo
 adding more lines
 blabla
+
+Add another line and put in staging area (git add)
+Then git-status
+Then add another line and do git-status
+to see what happens:
+-> 
