@@ -1,4 +1,5 @@
 # github-demo project
+This is a demo project to show git and github
 
 ## Introduction
 
