@@ -8,3 +8,6 @@ This is the Udemy course "Git complete"
 Going over the basics of git and github
 
 ## How to contribute
+
+### Copyright
+2017 Git.training
