@@ -8,6 +8,7 @@ This is the Udemy course "Git complete"
 Going over the basics of git and github
 
 ## How to contribute
+Fork and pull for review
 
 ### Copyright
 2017 Git.training
