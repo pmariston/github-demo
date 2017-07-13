@@ -3,3 +3,6 @@ Simple File
 
 ## Description
 This file was created in the simple-changes branch
+
+## Changes
+This is now added in the master branch, and should give conflicts
