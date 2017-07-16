@@ -5,3 +5,6 @@ Simple File
 This file was created in the simple-changes branch
 This line was added on another branch (realwork)
 This is now added in the master branch, and should give conflicts
+
+## Rebasing
+Adding line to demonstrate rebasing
