@@ -5,7 +5,10 @@ This is a demo project to show git and github
 This is the Udemy course "Git complete"
 
 ## Purpose
-Going over the basics of git and github
+Going over the basics of git and github.
+Commands
+Branching/Merging
+Rebasing
 
 ## How to contribute
 Fork and pull for review
