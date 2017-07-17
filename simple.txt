@@ -8,3 +8,7 @@ This is now added in the master branch, and should give conflicts
 
 ## Rebasing
 Adding line to demonstrate rebasing
+
+## Stashing
+Adding line to demonstrate stashing
+Adding a second line after the stashing.
