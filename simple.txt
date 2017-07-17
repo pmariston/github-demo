@@ -12,3 +12,5 @@ Adding line to demonstrate rebasing
 ## Stashing
 Adding line to demonstrate stashing
 Adding a second line after the stashing.
+
+Adding a third line to demo multiple stashes.

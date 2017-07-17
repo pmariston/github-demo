@@ -10,3 +10,4 @@ to see what happens:
 -> this is the next line
 
 Adding line to demo stashing
+Adding line to demo stashing into a branch
