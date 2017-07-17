@@ -8,3 +8,5 @@ Then git-status
 Then add another line and do git-status
 to see what happens:
 -> this is the next line
+
+Adding line to demo stashing
